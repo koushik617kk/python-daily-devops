@@ -1,0 +1,6 @@
+service_name,version,environment,deployment_type,replicas
+API Gateway,v1.5.0,prod,blue-green,5
+User Service,v2.1.1,staging,rolling,2
+Auth Service,v2.1.1,prod,rolling,4
+Logging Agent,v1.0.0,all,daemonset,10
+Payment Processor,v3.0.0,prod,blue-green,3

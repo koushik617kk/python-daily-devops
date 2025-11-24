@@ -1,0 +1,6 @@
+2025-11-22 08:30:01 [INFO] Service started successfully.
+2025-11-22 08:30:05 [WARN] High memory usage detected.
+2025-11-22 08:30:10 [ERROR] Database connection failed for user: admin.
+2025-11-22 08:30:15 [FATAL] Deployment pipeline aborted due to unrecoverable error.
+2025-11-22 08:30:20 [INFO] Heartbeat received from backend server.
+2025-11-22 08:30:25 [ERROR] File not found: /var/log/data.txt.

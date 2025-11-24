@@ -1,0 +1,10 @@
+# config.yaml
+app:
+  name: "WebApp Service"
+  version: "1.2.0"
+  port: 8080
+environments:
+  - name: "development"
+    enabled: true
+  - name: "production"
+    enabled: false
